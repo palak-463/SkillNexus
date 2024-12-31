@@ -1,0 +1,9 @@
+langchain
+llama_index
+chromadb
+streamlit
+sentence-transformers
+openai
+flask
+requests
+faiss-cpu
